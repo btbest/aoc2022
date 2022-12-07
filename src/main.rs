@@ -1,3 +1,5 @@
+mod dec1;
+
 fn main() {
-    println!("Hello, world!");
+    dec1::task1();
 }
